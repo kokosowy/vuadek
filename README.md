@@ -7,11 +7,11 @@ This is a self-learning project in matter of Python programming and usage of git
 
 Work In Progress..
 
-REQUIREMENTS:
+REQUIREMENTS and my testing platform:
 
-- Linux
-- Python (testing in 3.4)
-- UADE
-- lame
+- Linux		Ubuntu Server 12.04 LTS		http://releases.ubuntu.com/precise/
+- Python	python3.4 3.4.1			https://launchpad.net/~fkrull/+archive/deadsnakes
+- UADE		uade123 2.13			http://morgoth.free.fr/ubports/
+- LAME		lame 3.99.3			http://packages.ubuntu.com/precise/lame
 
 
